@@ -36,7 +36,6 @@ Make sure **Python 3.x** is installed on your system.
 
 ### ▶️ Run the app from your terminal:
 
-```bash
 python main.py
 
 🧾 Sample Question Format (questions.json)
