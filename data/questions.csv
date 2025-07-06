@@ -1,0 +1,12 @@
+prompt,option1,option2,option3,option4,answer
+Capital of India?,Mumbai,Delhi,Kolkata,Chennai,Delhi
+What is CPU?,Central Processing Unit,Control Unit,Compute Unit,Command Unit,Central Processing Unit
+HTML used for?,Design,Web Structure,OS,Storage,Web Structure
+Which keyword is used to create a class in Python?,function,def,class,object,class
+What is inheritance in OOP?,Copying variables,Accessing private members,Acquiring properties of another class,Deleting a class,Acquiring properties of another class
+Which of the following is not a pillar of OOP?,Encapsulation,Polymorphism,Recursion,Inheritance,Recursion
+Which method is called automatically when an object is created in Python?,__init__,__del__,__str__,__call__,__init__
+What is the output of: print(type([]))?,<class 'dict'>,<class 'list'>,<class 'set'>,<class 'tuple'>,<class 'list'>
+Which of the following is used for abstraction in Python?,abstractmethod,abstractclass,virtual,interface,abstractmethod
+Which function is used to get the length of a list in Python?,size(),length(),len(),count(),len()
+What does the 'self' keyword in Python represent?,Current class name,Instance of the class,Parent class,Static member,Instance of the class
